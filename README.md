@@ -228,10 +228,10 @@ Add your Streamlit deployed link here.
 
 ### Student Details
 
-- **Name:** _____Zain AHmad_______________
-- **Roll No.:** ________42____________
+- **Name:** ____Zain AHmad____
+- **Roll No.:** ________42________
 - **Department:** Artificial Intelligence & Data Science
-- **College:** ________Anjuman College of Engineering and Technology____________
+- **College:** ________Anjuman College of Engineering and Technology________
 - **Academic Year:** 2026–27
 
 ## License
